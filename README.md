@@ -13,3 +13,5 @@
     pip install pygame pymunk numpy scipy
     ```
 ## 视频
+
+https://www.bilibili.com/video/BV1CdYAz7ErX/?share_source=copy_web&vd_source=66fabd8b1c7200cb9fd801349c634345
