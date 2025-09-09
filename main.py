@@ -23,6 +23,7 @@ except:
     print("无法加载中文字体，使用默认字体")
     font = pygame.font.Font(None, 15)
     small_font = pygame.font.Font(None, 15)
+    chinese_isfont = False
 
 clock = pygame.time.Clock()
 # 创建物理空间
